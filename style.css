@@ -287,7 +287,7 @@ a:hover {
     font-size: 32px;
 }
 
-#bloc-1-hero .col-12
+#bloc-1-hero .col-12, #bloc-5-cta h2, #bloc-5-cta .col-sm-12
 {
  z-index: 99
 }
