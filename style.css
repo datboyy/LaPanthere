@@ -287,6 +287,16 @@ a:hover {
     font-size: 32px;
 }
 
+#bloc-1-hero .col-12
+{
+ z-index: 99
+}
+
+#bloc-1-hero .col-12
+{
+  text-align: center
+}
+
 .navbar {
     margin-bottom: 0;
     z-index: 1;
